@@ -8,6 +8,7 @@ if __name__ == "__main__":
     print("*****" * 20)
     name = input("Please input your name:")
     print(SayHello(name=name))
-    print("@@@" * 10)
+    print("@@@@" * 10)
+
 
 
