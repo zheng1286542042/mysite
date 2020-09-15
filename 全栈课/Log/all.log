@@ -1,0 +1,10 @@
+2020-07-20 10:09:35,839 - DEBUG - debug message
+2020-07-20 10:09:35,841 - INFO - info message
+2020-07-20 10:09:35,841 - WARNING - warning message
+2020-07-20 10:09:35,841 - ERROR - error message
+2020-07-20 10:09:35,841 - CRITICAL - critical message
+2020-07-20 10:09:49,994 - DEBUG - debug message
+2020-07-20 10:09:49,995 - INFO - info message
+2020-07-20 10:09:49,995 - WARNING - warning message
+2020-07-20 10:09:49,995 - ERROR - error message
+2020-07-20 10:09:49,995 - CRITICAL - critical message

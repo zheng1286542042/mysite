@@ -1,0 +1,6 @@
+2020-07-14 19:31:36,607 - ERROR - 02.py[:24} - error message
+2020-07-14 19:31:36,607 - CRITICAL - 02.py[:25} - critical message
+2020-07-20 10:09:35,841 - ERROR - 02.py[:24} - error message
+2020-07-20 10:09:35,841 - CRITICAL - 02.py[:25} - critical message
+2020-07-20 10:09:49,995 - ERROR - 02.py[:24} - error message
+2020-07-20 10:09:49,995 - CRITICAL - 02.py[:25} - critical message
